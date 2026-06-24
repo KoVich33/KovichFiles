@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/16-11-24c.mp4 filter=lfs diff=lfs merge=lfs -text
